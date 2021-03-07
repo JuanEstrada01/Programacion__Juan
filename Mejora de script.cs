@@ -5,8 +5,8 @@ using UnityEngine;
 public class Juagador : MonoBehaviour
 {
     public int jumpForce;
-    public int movementSpeed;
-    bool touchFloor = false;
+    public int  movementSpeed;
+   bool   touchFloor = false;
 
 
 
